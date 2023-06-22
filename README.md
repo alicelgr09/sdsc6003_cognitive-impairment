@@ -1,1 +1,1 @@
-# sdsc6003_cognitive-impairment
+# sdsc6003_cognitive-status-prediction
